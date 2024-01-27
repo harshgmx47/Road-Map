@@ -1,8 +1,12 @@
 # Road-Map
 Revising DSA and Concepts of DevOps 
 
-![](https://play-lh.googleusercontent.com/iwIn6Wrk8awn_du0Nl-1yT2gYptF_nv0KQqEELyK_FFSTTxEOk8vHfTXiD3IXX2ySiI)
-
+> [!Note]
+> Don't skip ,start go through Concepts we know already ,be confident try give just 1 hours if you can extend then go for 2 hours,select specific topic for day do not rush
+> here some Other Road-Maps
+> Graph QL -https://roadmap.sh/graphql
+> Flutter -https://roadmap.sh/flutterLet
+> Dev Ops -https://roadmap.sh/devops
 
 ## 90 Days of DSA Roadmap
 **Day 1 & 2 :**  Learn about **space and time complexity**. One of the most important part of programming is knowing the complexity of the code you writing.
