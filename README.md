@@ -10,7 +10,7 @@ Revising DSA and Concepts of DevOps
   3.Dev Ops -https://roadmap.sh/devops
 
 ## 90 Days of DSA Roadmap
-**Day 1 & 2 :**  Learn about **space and time complexity**. One of the most important part of programming is knowing the complexity of the code you writing.
+- [ ] **Day 1 & 2 :**  Learn about **space and time complexity**. One of the most important part of programming is knowing the complexity of the code you writing.
 ##### Resources
 - [Theory](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/) - by Geeksforgeeks
 - [Video Lecture](https://www.youtube.com/watch?v=mV3wrLBbuuE) - By Kunal Kushwaha
